@@ -22,7 +22,7 @@ namespace ConsoleApplication2
 
 
             DateTime dt = DateTime.Now;
-            if (dt.Hour > 18) 
+            if (dt.Hour > 18 || dt.Hour<6) 
             { string userTitle = Console.ReadLine();
                 if (userTitle == "F")
                     Console.WriteLine("Good Evening! " + "Mrs." + userLastName + "," + "Age" + userAge + ".");
