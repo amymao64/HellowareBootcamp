@@ -1,0 +1,6 @@
+c:\users\amy mao\documents\visual studio 2015\Projects\FindMax\FindMax\bin\Debug\FindMax.exe.config
+c:\users\amy mao\documents\visual studio 2015\Projects\FindMax\FindMax\bin\Debug\FindMax.exe
+c:\users\amy mao\documents\visual studio 2015\Projects\FindMax\FindMax\bin\Debug\FindMax.pdb
+c:\users\amy mao\documents\visual studio 2015\Projects\FindMax\FindMax\obj\Debug\FindMax.csprojResolveAssemblyReference.cache
+c:\users\amy mao\documents\visual studio 2015\Projects\FindMax\FindMax\obj\Debug\FindMax.exe
+c:\users\amy mao\documents\visual studio 2015\Projects\FindMax\FindMax\obj\Debug\FindMax.pdb
