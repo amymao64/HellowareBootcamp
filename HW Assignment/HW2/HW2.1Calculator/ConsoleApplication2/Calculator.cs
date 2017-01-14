@@ -8,12 +8,21 @@ namespace ConsoleApplication2
 {
     class Calculator
     {
-        
+        //I combine int into double calculation instead of building three ctro (same for four operators).
+
         public double Addition(double x, double y)
         {
             
             return x + y;
         }
+
+        //public int Addition(int x, int y)
+        //{
+
+        //    return x + y;
+        //}
+
+
 
         public double Addition(double x, double z, double y)
         {

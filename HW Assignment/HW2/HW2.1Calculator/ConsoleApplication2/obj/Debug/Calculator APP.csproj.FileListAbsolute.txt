@@ -4,3 +4,6 @@ c:\users\amy mao\documents\visual studio 2015\Projects\ConsoleApplication2\Conso
 c:\users\amy mao\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
 c:\users\amy mao\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
 c:\users\amy mao\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Amy Mao\Desktop\HellowareBootcamp\HW Assignment\HW2\HW2.1Calculator\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Amy Mao\Desktop\HellowareBootcamp\HW Assignment\HW2\HW2.1Calculator\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Amy Mao\Desktop\HellowareBootcamp\HW Assignment\HW2\HW2.1Calculator\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
