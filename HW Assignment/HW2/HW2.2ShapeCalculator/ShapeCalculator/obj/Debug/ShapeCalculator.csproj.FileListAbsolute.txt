@@ -4,3 +4,9 @@ c:\users\amy mao\documents\visual studio 2015\Projects\ShapeCalculator\ShapeCalc
 c:\users\amy mao\documents\visual studio 2015\Projects\ShapeCalculator\ShapeCalculator\bin\Debug\ShapeCalculator.pdb
 c:\users\amy mao\documents\visual studio 2015\Projects\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.exe
 c:\users\amy mao\documents\visual studio 2015\Projects\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.pdb
+C:\Users\Amy Mao\Desktop\HellowareBootcamp\HW Assignment\HW2\HW2.2ShapeCalculator\ShapeCalculator\bin\Debug\ShapeCalculator.exe.config
+C:\Users\Amy Mao\Desktop\HellowareBootcamp\HW Assignment\HW2\HW2.2ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.exe
+C:\Users\Amy Mao\Desktop\HellowareBootcamp\HW Assignment\HW2\HW2.2ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.pdb
+C:\Users\Amy Mao\Desktop\HellowareBootcamp\HW Assignment\HW2\HW2.2ShapeCalculator\ShapeCalculator\bin\Debug\ShapeCalculator.exe
+C:\Users\Amy Mao\Desktop\HellowareBootcamp\HW Assignment\HW2\HW2.2ShapeCalculator\ShapeCalculator\bin\Debug\ShapeCalculator.pdb
+C:\Users\Amy Mao\Desktop\HellowareBootcamp\HW Assignment\HW2\HW2.2ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.csprojResolveAssemblyReference.cache

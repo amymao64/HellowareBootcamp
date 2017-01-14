@@ -8,21 +8,36 @@ namespace ShapeCalculator
 {
     class Shape
     {
-
-        public Shape(double width, double height)
-        {
-            width = int.Parse(Console.ReadLine());
-            height = int.Parse(Console.ReadLine());
-        }
-
-
-        public Shape(double radius)
-        {
-            radius = int.Parse(Console.ReadLine());
-        }
-
-
         private double recwidth;
+        private double recheight;
+        private double cicradius;
+
+        public Shape (double width, double height)
+        {
+            recwidth = width;
+            recheight = height;
+        }
+
+
+        public Shape (double radius)
+        {
+            cicradius = radius;
+        }
+
+        public double Cicradius
+        {
+            get
+            {
+                return cicradius;
+            }
+
+            set
+            {
+                cicradius = value;
+            }
+        }
+
+
 
         public double Width
         {
@@ -37,7 +52,6 @@ namespace ShapeCalculator
         }
 
 
-        private double recheight;
 
         public double Height
         {
@@ -51,31 +65,17 @@ namespace ShapeCalculator
             }
         }
 
-        
+
+
 
         public double GetRecArea(double width, double height)
         {
-            return width * height;
+            return recwidth * height;
         }
 
-        private double cicradius;
-
-        public double Radius
+        public double GetCirArea(double cicradius)
         {
-            get
-            {
-                return cicradius;
-            }
-
-            set
-            {
-                Radius = value;
-            }
-        }
-
-        public double GetCicArea(double radius)
-        {
-            return Math.PI*radius*radius;
+            return Math.PI*cicradius*cicradius;
         }
 
     }

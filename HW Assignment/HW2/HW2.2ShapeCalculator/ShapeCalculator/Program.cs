@@ -11,7 +11,7 @@ namespace ShapeCalculator
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Which type shape's area you want to calculate? Rectangle or Circle");
+            Console.WriteLine("Which type of shape's area you want to calculate? Rectangle or Circle");
             String result = Console.ReadLine();
 
             {
@@ -21,8 +21,8 @@ namespace ShapeCalculator
                     double width = double.Parse(Console.ReadLine());
                     Console.WriteLine("Please type your height here:");
                     double height = double.Parse(Console.ReadLine());
-                    Shape s = new Shape(width, height);
-                    double ans = s.GetRecArea(width, height);
+                    Shape shapeArea = new Shape(width, height);
+                    double ans = shapeArea.GetRecArea(width, height);
                     Console.WriteLine("The area of rectangle is:" + ans);
                 }
 
@@ -31,11 +31,12 @@ namespace ShapeCalculator
                 {
                     Console.WriteLine("Please type your radius here:");
                     double radius = double.Parse(Console.ReadLine());
-                    Shape s2 = new Shape(radius);
-                    double ans = s2.GetCicArea(radius);
-                    Console.WriteLine("The area of cicrle is:" + ans);
+                    Shape shapeArea2 = new Shape(radius);
+                    double ans2 = shapeArea2.GetCirArea(radius);
+                    Console.WriteLine("The area of cicrle is:" + ans2);
 
                 }
+                
             }
 
 
