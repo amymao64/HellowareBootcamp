@@ -1,0 +1,6 @@
+c:\users\amy mao\documents\visual studio 2015\Projects\ShapeCalculator\ShapeCalculator\bin\Debug\ShapeCalculator.exe.config
+c:\users\amy mao\documents\visual studio 2015\Projects\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.csprojResolveAssemblyReference.cache
+c:\users\amy mao\documents\visual studio 2015\Projects\ShapeCalculator\ShapeCalculator\bin\Debug\ShapeCalculator.exe
+c:\users\amy mao\documents\visual studio 2015\Projects\ShapeCalculator\ShapeCalculator\bin\Debug\ShapeCalculator.pdb
+c:\users\amy mao\documents\visual studio 2015\Projects\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.exe
+c:\users\amy mao\documents\visual studio 2015\Projects\ShapeCalculator\ShapeCalculator\obj\Debug\ShapeCalculator.pdb
