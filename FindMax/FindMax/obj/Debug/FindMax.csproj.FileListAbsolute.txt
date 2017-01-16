@@ -4,3 +4,9 @@ c:\users\amy mao\documents\visual studio 2015\Projects\FindMax\FindMax\bin\Debug
 c:\users\amy mao\documents\visual studio 2015\Projects\FindMax\FindMax\obj\Debug\FindMax.csprojResolveAssemblyReference.cache
 c:\users\amy mao\documents\visual studio 2015\Projects\FindMax\FindMax\obj\Debug\FindMax.exe
 c:\users\amy mao\documents\visual studio 2015\Projects\FindMax\FindMax\obj\Debug\FindMax.pdb
+C:\Users\Amy Mao\Desktop\HellowareBootcamp\FindMax\FindMax\bin\Debug\FindMax.exe.config
+C:\Users\Amy Mao\Desktop\HellowareBootcamp\FindMax\FindMax\obj\Debug\FindMax.exe
+C:\Users\Amy Mao\Desktop\HellowareBootcamp\FindMax\FindMax\obj\Debug\FindMax.pdb
+C:\Users\Amy Mao\Desktop\HellowareBootcamp\FindMax\FindMax\bin\Debug\FindMax.exe
+C:\Users\Amy Mao\Desktop\HellowareBootcamp\FindMax\FindMax\bin\Debug\FindMax.pdb
+C:\Users\Amy Mao\Desktop\HellowareBootcamp\FindMax\FindMax\obj\Debug\FindMax.csprojResolveAssemblyReference.cache
