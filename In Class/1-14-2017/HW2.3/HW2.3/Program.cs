@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Problem3
+namespace HW2._3
 {
     class Program
     {
@@ -12,24 +12,27 @@ namespace Problem3
         {
             Console.WriteLine("Please enter the size of your array:");
             int n = Convert.ToInt32(Console.ReadLine());
-            string[] strArr = new string[n];
+            int[] numberArr = new int[n];
+
 
             Console.WriteLine("Enter the elements of the array");
             for (int i = 0; i < n; i++)
             {
-                strArr[i] = Convert.ToString(Console.ReadLine());
+                numberArr[i] = Convert.ToInt32(Console.ReadLine());
             }
-         
-            for (int j = 0; j < n-1; j++)
-            {
-              
-                Console.Write(strArr[j] + "-");
-                
-            }
-            Console.Write(strArr[n-1]);
-        }
 
-        
-}
-}
+
+            int largest = numberArr[0];
+            for (int i = 0; i < n; i++)
+            {
+                if (numberArr[i] > largest)
+                {
+                    largest = numberArr[i];
+                }
+            }
+
+            Console.WriteLine("The largest number in the array is:" + largest);
+        }
+    }
+    }
 
