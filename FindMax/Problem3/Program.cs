@@ -24,6 +24,7 @@ namespace Problem3
             {
               
                 Console.Write(strArr[j] + "-");
+                
             }
             Console.Write(strArr[n]);
         }

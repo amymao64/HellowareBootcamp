@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMax", "FindMax\FindMax.csproj", "{0949EFB4-1DFA-4274-A054-6C9EFB69B9D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem1_FindMax", "FindMax\Problem1_FindMax.csproj", "{0949EFB4-1DFA-4274-A054-6C9EFB69B9D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum", "Sum\Sum.csproj", "{52DDE5F2-5BBC-45BF-A161-BFADD556C27F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2_Sum", "Sum\Problem2_Sum.csproj", "{52DDE5F2-5BBC-45BF-A161-BFADD556C27F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3", "Problem3\Problem3.csproj", "{AD12EE32-2A6E-4FE5-A4ED-03E3F8B508CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertString", "ConvertString\ConvertString.csproj", "{9CCF49F0-8038-4285-8413-94CB518BBF23}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem5_ConvertString", "ConvertString\Problem5_ConvertString.csproj", "{9CCF49F0-8038-4285-8413-94CB518BBF23}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem6", "Problem6\Problem6.csproj", "{3551064E-5F8F-457B-BBA1-778668DD6C37}"
 EndProject
